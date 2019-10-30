@@ -14,13 +14,15 @@ This is a meme board made to teach people git
 
 `![name pour votre meme](put the image in images and reference it here)`
 
-![J'aime le meme](images/z00merm3m3.jpg)
+[J'aime le meme](images/z00merm3m3.jpg)
 
 
 
 
 # GO CRAZY BELOW!!!!!
 
-![Finally, why did it take so long](images/memes.png)
+[Finally, why did it take so long](images/memes.png)
 
-![When - From Awsum](images/ea2cb88.png)
+[When - From Awsum](images/ea2cb88.png)
+
+[yoshi chillin wearing sunglasses](images/yoshichillinwearingsunglasses)
