@@ -21,4 +21,4 @@ This is a meme board made to teach people git
 
 # GO CRAZY BELOW!!!!! 
 
-[When - From Awsum] (images/ea2cb88.png)
+![When - From Awsum](images/ea2cb88.png)
