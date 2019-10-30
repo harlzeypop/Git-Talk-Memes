@@ -19,6 +19,8 @@ This is a meme board made to teach people git
 
 
 
-# GO CRAZY BELOW!!!!! 
+# GO CRAZY BELOW!!!!!
+
+![Finally, why did it take so long](images/memes.png)
 
 ![When - From Awsum](images/ea2cb88.png)
