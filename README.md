@@ -21,6 +21,6 @@ This is a meme board made to teach people git
 
 # GO CRAZY BELOW!!!!!
 
-![Finally, why did it take so long](downloads/memes.png)
+![Finally, why did it take so long](images/memes.png)
 
 
