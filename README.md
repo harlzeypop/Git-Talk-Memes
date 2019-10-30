@@ -25,4 +25,4 @@ This is a meme board made to teach people git
 
 [When - From Awsum](images/ea2cb88.png)
 
-[yoshi chillin wearing sunglasses](images/yoshichillinwearingsunglasses)
+[yoshi chillin wearing sunglasses](images/yoshichillinwearingsunglasses.jpg)
